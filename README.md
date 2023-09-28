@@ -15,3 +15,6 @@ This repository will be looking at Football doing a range of different activitie
 
 # Twitter Senitment Analysis
 It is a Natural Language Processing Problem where Sentiment Analysis is done by Classifying the Positive tweets from negative tweets by classification, text mining, text analysis, data analysis and data visualization
+
+![1693288099245](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/594eca24-9c82-4a95-8642-c283d2155d71)
+
