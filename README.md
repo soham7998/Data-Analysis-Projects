@@ -1,5 +1,8 @@
 # Data-Analysis-Projects
 # Netflix EDA 
+
+![NFLX](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/3b070b75-8717-4133-bed6-fdf62fd6a790)
+
 This dataset & Repository consists of all Netflix original films released as of June 1st, 2021. Additionally, it also includes all Netflix documentaries and specials. The data was webscraped off of this Wikipedia page, which was then integrated with a dataset consisting of all of their corresponding IMDB scores. IMDB scores are voted on by community members, and the majority of the films have 1,000+ reviews.
 Dataset consist of:
 Title
