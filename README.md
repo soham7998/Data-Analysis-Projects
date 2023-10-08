@@ -10,7 +10,7 @@ Genre
 Premiere date,IMDB scores
 Runtime,Languages
 
-# football.ipynb
+# football EDA
 This repository will be looking at Football doing a range of different activities with football data this will include Exploratory Data Analysis, Data visualization,many other topics. This repository will consist of mainly Jupyter Notebooks and Python programming language.
 
 # Twitter Senitment Analysis
