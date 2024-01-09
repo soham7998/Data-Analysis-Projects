@@ -19,6 +19,16 @@ It is a Natural Language Processing Problem where Sentiment Analysis is done by 
 ![1693288099245](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/594eca24-9c82-4a95-8642-c283d2155d71)
 
 # Power BI Dashboard 
-**Super Store Sales**
+**Power BI Sales Dashboard for Global Super Store**
+• The project involves creating an interactive Power BI Sales Dashboard using Global_super_store sales data.
+
+• The ETL process was performed to clean and transform the data using Power query.
+
+• DAX was used for creating calculated measures and calculated columns.
+
+• Visualizations and reports were created using cards, charts and slicers to provide insights and easy understanding for end users.
+
+• The tools used were Microsoft Power BI and MS Excel.
+
 ![Super Sales Dashboard](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/ebb4f8e1-e1d2-4ee8-a70f-7c40c9aa1e49)
 
