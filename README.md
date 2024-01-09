@@ -18,3 +18,7 @@ It is a Natural Language Processing Problem where Sentiment Analysis is done by 
 
 ![1693288099245](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/594eca24-9c82-4a95-8642-c283d2155d71)
 
+# Power BI Dashboard 
+**Super Store Sales**
+![Super Sales Dashboard](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/ebb4f8e1-e1d2-4ee8-a70f-7c40c9aa1e49)
+
