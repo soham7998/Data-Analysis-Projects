@@ -58,3 +58,5 @@ It is a Natural Language Processing Problem where Sentiment Analysis is done by 
 
 • company_size: The median number of people that worked for the company during the year
 
+![ds](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/fd6cf30d-5895-441b-b555-a5ab5a4fab3f)
+
