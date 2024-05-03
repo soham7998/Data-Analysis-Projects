@@ -46,10 +46,6 @@ It is a Natural Language Processing Problem where Sentiment Analysis is done by 
 
 • salary: The total gross salary amount paid.
 
-• salary_currency: The currency of the salary paid as an ISO 4217 currency code.
- 
-• salaryinusd: The salary in USD
-
 • employee_residence: Employee's primary country of residence in during the work year as an ISO 3166 country code.
 
 • remote_ratio: The overall amount of work done remotely
@@ -59,4 +55,15 @@ It is a Natural Language Processing Problem where Sentiment Analysis is done by 
 • company_size: The median number of people that worked for the company during the year
 
 ![ds](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/fd6cf30d-5895-441b-b555-a5ab5a4fab3f)
+
+
+# IPL Data Analysis_Using Apache Spark
+
+•Setting Up Spark Session: SparkSession is created using pyspark.sql.SparkSession.builder.appName("IPL Data Analysis").getOrCreate().
+•Data Loading: IPL data from CSV files is loaded into Spark DataFrames using spark.read.format("csv").option("header","true").load("s3://ipl-data-analysis-project/<filename>.csv").
+•Data Manipulation and Analysis: Various data manipulation and analysis operations are performed on the Spark DataFrames using Spark SQL queries and DataFrame operations like groupBy, join, withColumn, orderBy, when, sum, avg, etc.
+•Creating Temp Views: Temporary views of Spark DataFrames are created using createOrReplaceTempView("view_name"). These views can then be queried using Spark SQL.
+•SQL Queries: SQL queries are executed on the Spark DataFrames using spark.sql("SQL query"). These queries help in performing structured data analysis.
+
+![Screenshot 2024-05-03 162548](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/74102fef-8da2-48f0-b962-c65a33b4a4af)
 
