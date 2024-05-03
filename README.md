@@ -58,12 +58,19 @@ It is a Natural Language Processing Problem where Sentiment Analysis is done by 
 
 
 # IPL Data Analysis_Using Apache Spark
+Here are the things I have done.
 
-•Setting Up Spark Session: SparkSession is created using pyspark.sql.SparkSession.builder.appName("IPL Data Analysis").getOrCreate().
-•Data Loading: IPL data from CSV files is loaded into Spark DataFrames using spark.read.format("csv").option("header","true").load("s3://ipl-data-analysis-project/<filename>.csv").
-•Data Manipulation and Analysis: Various data manipulation and analysis operations are performed on the Spark DataFrames using Spark SQL queries and DataFrame operations like groupBy, join, withColumn, orderBy, when, sum, avg, etc.
-•Creating Temp Views: Temporary views of Spark DataFrames are created using createOrReplaceTempView("view_name"). These views can then be queried using Spark SQL.
-•SQL Queries: SQL queries are executed on the Spark DataFrames using spark.sql("SQL query"). These queries help in performing structured data analysis.
+•Basics of Apache Spark (architecture, transformation, action, lazy evaluation)
+
+•Creating a Databricks account and the basics of it
+
+•Structured API and how to write transformation functions
+
+•Using SQL to analyze IPL Data
+
+•Building visualization to gain more insights 
+
+The goal of this project is to give you an overall understanding of Apache Spark and its different functions to write transformation blocks on top of that you will learn SQL to analyze data and build visualization.
 
 ![Screenshot 2024-05-03 162548](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/74102fef-8da2-48f0-b962-c65a33b4a4af)
 
