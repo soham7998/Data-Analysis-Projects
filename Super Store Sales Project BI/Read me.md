@@ -1,5 +1,5 @@
 
-# Power BI Sales Dashboard for Global Super Store
+# Power BI Sales Dashboard for Global Super Store.
 
 • The project involves creating an interactive Power BI Sales Dashboard using Global_super_store sales data.
 
