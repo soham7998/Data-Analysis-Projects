@@ -74,7 +74,7 @@ The goal of this project is to give you an overall understanding of Apache Spark
 
 ![Screenshot 2024-05-03 162548](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/74102fef-8da2-48f0-b962-c65a33b4a4af)
 
-# 7)Loan Eligibility Prediction 
+# 7) Loan Eligibility Prediction 
 **Data Loading and Exploration:**
 Imported necessary libraries and loaded the dataset from a CSV file.
 Explored the dataset with head(), info(), shape, and describe() methods to understand its structure and summary statistics.
@@ -98,5 +98,7 @@ Encoded categorical variables into numerical values using LabelEncoder.
 **Model Training and Evaluation:**
 Applied the Naive Bayes Classifier to train the model on the training set.
 Evaluated the model's performance on the test set, likely calculating metrics such as accuracy, precision, recall, and F1-score (though the evaluation part isn't explicitly mentioned in the provided code).
+
+![image](https://github.com/soham7998/Data-Analysis-Projects/assets/112894790/caab9cf9-55ac-4fb1-9283-429d16a06000)
 
 
